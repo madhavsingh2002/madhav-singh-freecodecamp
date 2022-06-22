@@ -1,6 +1,7 @@
 {
-	"author":"madhav singh",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author":"madhav singh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
